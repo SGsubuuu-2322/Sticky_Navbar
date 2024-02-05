@@ -1,3 +1,4 @@
+/* This is the styling file for this project, where all stylings are written CSS3 technology... */
 @import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
 
 * {
@@ -11,13 +12,13 @@ body {
   color: #222;
   padding-bottom: 50px;
 }
+/* These are some general stylings code for the whole project... */
 
 .container {
   max-width: 1200px;
   margin: 0 auto;
 }
-
-/* TODO @Navbar.... */
+/* These stylings codes are for the parent content container */
 
 nav {
   position: fixed;
@@ -67,6 +68,7 @@ nav a:hover {
   color: #c0392b;
   font-weight: bold;
 }
+/* These stylings are for the nav container and its child elements...  */
 
 .hero {
   background-image: url("https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
